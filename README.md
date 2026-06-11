@@ -1,8 +1,8 @@
 # Aula15_AvancandoArrays_NomeAluno.
 
-# Aula 15 - Avançando com Arrays
-# Aluno
-# Nome: João da Silva
+## Aula 15 - Avançando com Arrays
+### Aluno
+# Nome: Sophia de Oliveira Silva
 # 🎯 Desafio
 Criar um sistema simples de relatório de vendas utilizando arrays em JavaScript.
 📋 Requisitos da Atividade
